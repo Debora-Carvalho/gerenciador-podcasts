@@ -1,0 +1,26 @@
+[
+    {
+        "podcastName": "Eslen Podcast",
+        "episode": "Psicólogo: Aprenda a Manejar o Estresse - Dr. Ramiro Coni [Ep. 129]",
+        "videoId": "etPtb-nua8Y",
+        "cover": "https://i.ytimg.com/vi/etPtb-nua8Y/maxresdefault.jpg",
+        "link": "https://youtu.be/etPtb-nua8Y?si=pF-EnY47hGn2jhiv",
+        "categories": ["psicologia", "saúde"]
+    },
+    {
+        "podcastName": "Eslen Podcast",
+        "episode": "Física e Matemática: A Chave Para Entender o Universo - Felipe Guisoli [Ep. 102]",
+        "videoId": "nQmamKKQH80",
+        "cover": "https://i.ytimg.com/vi/nQmamKKQH80/maxresdefault.jpg",
+        "link": "https://youtu.be/nQmamKKQH80?si=Hp3MK6U4V9DIpp5L",
+        "categories": ["física", "matemática", "universo"]
+    },
+    {
+        "podcastName": "Podcast 2",
+        "episode": "Titulo do episodio [Ep. 205]",
+        "videoId": "00000",
+        "cover": "https://i.ytimg.com/vi/nQmamKKQH80/maxresdefault.jpg",
+        "link": "https://youtu.be/nQmamKKQH80?si=Hp3MK6U4V9DIpp5L",
+        "categories": ["humor", "livros", "geek"]
+    }
+]
